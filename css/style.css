@@ -1388,7 +1388,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/toppageimage.png);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
@@ -2644,7 +2644,7 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../img/banner/footer_bg.png);
+  background-image: url(../img/banner/bottomimage.png);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_footer.scss */
